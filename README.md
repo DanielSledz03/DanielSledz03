@@ -4,7 +4,7 @@
 I'm Daniel Śledź, a Front End :globe_with_meridians: and Mobile Apps :iphone: Developer with a specialization in <b>React</b> and <b>React Native</b>. 
 <br>
 <br>
-I'm also a first-year Computer Science student at Silesian University of Technology :mortar_board:
+I'm also a second-year Computer Science student at Silesian University of Technology :mortar_board:
 <br/>
 <br/>
 From a young age :boy:, I've been fascinated by computer science, beginning my programming journey at 14 with C++.
