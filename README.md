@@ -16,8 +16,8 @@ I have accumulated over a year of commercial experience through roles in two com
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-%C5%9Bled%C5%BA-139a64241/) 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Daniel+%C5%9Aled%C5%BA&hl=pl)
-[![Apple Developer](https://img.shields.io/badge/iOS_Developer-000000?style=for-the-badge&logo=apple&logoColor=white)]([https://developer.apple.com/account/#/personal/YOUR_ID](https://apps.apple.com/fr/developer/daniel-sledz/id1758524011?l=en-GB))
-[![npm](https://img.shields.io/badge/npmjs-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)]([https://www.npmjs.com/~your-username](https://www.npmjs.com/~danielsledz))
+[![Apple Developer](https://img.shields.io/badge/iOS_Developer-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/fr/developer/daniel-sledz/id1758524011?l=en-GB)
+[![npm](https://img.shields.io/badge/npmjs-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~danielsledz)
 
 
 ## 💻 Tech Stack:
