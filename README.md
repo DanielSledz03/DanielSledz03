@@ -48,6 +48,6 @@ So far, I have gained **over a year of commercial experience** working with two 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=DanielSledz03&theme=radical&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://gh-trophy.cdnsoft.net/?username=DanielSledz03&theme=radical&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![](https://visitcount.itsvg.in/api?id=DanielSledz&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
