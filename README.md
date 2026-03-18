@@ -1,26 +1,21 @@
-# Hi! Have a nice day! 
+# Hi there! 👋
 
-##  About Me
-I'm Daniel Śledź, a Front End :globe_with_meridians: and Mobile Apps :iphone: Developer with a specialization in <b>React</b> and <b>React Native</b>. 
-<br>
-<br>
-I'm also a second-year Computer Science student at Silesian University of Technology :mortar_board:
-<br/>
-<br/>
-From a young age :boy:, I've been fascinated by computer science, beginning my programming journey at 14 with C++.
-<br>
-<br>
-I have accumulated over a year of commercial experience through roles in two companies, enhancing my development skills.<br> Currently, I am focused on advancing my own projects :rocket:
+## About Me
+I'm Daniel Śledź — a Frontend and Mobile Developer specializing in **React** and **React Native**.
 
+I'm also a **third-year Computer Science student** at the Silesian University of Technology. 🎓
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-%C5%9Bled%C5%BA-139a64241/) 
+I started programming at the age of 14 with **C++**, and since then I've been consistently developing my skills across web, mobile, and backend technologies.
+
+So far, I have gained **over a year of commercial experience** working with two companies, while also building and developing my own projects. 🚀
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-%C5%9Bled%C5%BA-139a64241/)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Daniel+%C5%9Aled%C5%BA&hl=pl)
 [![App Store](https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/fr/developer/daniel-sledz/id1758524011?l=en-GB)
 [![npm](https://img.shields.io/badge/npmjs-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~danielsledz)
 
-
-## 💻 Tech Stack:
+## 💻 Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -52,11 +47,7 @@ I have accumulated over a year of commercial experience through roles in two com
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-
-
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=DanielSledz03&theme=radical&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=DanielSledz03&theme=radical&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![](https://visitcount.itsvg.in/api?id=DanielSledz&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
